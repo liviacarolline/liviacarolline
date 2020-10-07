@@ -22,6 +22,10 @@ I'm **Lívia Caroline**, a **Quality Assurance Analyst** from Brazil.
 - 👄 **Portuguese**, **Spanish** and **English** speaker. 
 
 
+### Languages and Tools
+
+In progress
+
 ### Follow Me
 
 <a href="https://discord.gg/DX63xk">
