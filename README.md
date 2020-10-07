@@ -5,6 +5,7 @@
 
 I'm **Lívia Caroline**, a **Quality Assurance Analyst** from Brazil. 
 <img align="right" alt="GIF" src="https://github.com/liviacarolline/liviacarolline/blob/main/bug.gif?raw=true" width="180" height="200" />
+<!-- image source www.bebeaulait.com -->
 
 <br />
 
