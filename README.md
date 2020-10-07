@@ -1,5 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<hr>
 
 <br />
 
@@ -19,7 +20,9 @@ I'm **Lívia Caroline**, a **Quality Assurance Analyst** from Brazil.
 
 ### Fun Facts
 
-- 👄 **Portuguese**, **Spanish** and **English** speaker. 
+- 👄 **Portuguese**, **Spanish** and **English** speaker.
+- 🎥 I'm a huge fan of Harry Potter
+- 📚 Planning on read one book per month
 
 
 ### Languages and Tools
