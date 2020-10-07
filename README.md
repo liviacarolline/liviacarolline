@@ -22,7 +22,7 @@ I'm **Lívia Caroline**, a **Quality Assurance Analyst** from Brazil.
 
 - 👄 **Portuguese**, **Spanish** and **English** speaker.
 - 🎥 I'm a huge fan of Harry Potter
-- 📚 Planning on read one book per month
+- 📚 Planning on read one book every month
 
 
 ### Languages and Tools
