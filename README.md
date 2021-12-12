@@ -15,19 +15,19 @@ I'm **Lívia Caroline**, a **Quality Assurance Analyst** from Brazil.
 - 💻 I’m currently working full-time at **NUTES**.
 - 👩 Experience as **Functional Analyst**.
 - 🌱 Learning more about: **Test Automation**, **Test Management** and **DevOps**.
-- ✔️ Certifications: **CTFL**, **CPRE**, **SFPC** and **DEPC**.
+- ✔️ Certifications: **CTFL**, **CTFL-AcT**, **CPRE**, **SFPC** and **DEPC**.
 
 
 ### Fun Facts
 
 - 👄 **Portuguese**, **Spanish** and **English** speaker.
 - 🎥 I'm a huge fan of Harry Potter
-- 📚 Planning on read one book every month
 
 
 ### Languages and Tools
 
-In progress
+- Robot Framework
+- Postman
 
 ### Follow Me
 
